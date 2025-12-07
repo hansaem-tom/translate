@@ -1,5 +1,11 @@
+import LanguageSwitcher from "~/shared/components/language-switcher";
+
 const RootPage = () => {
-  return <div>RootPage</div>;
+  return (
+    <div>
+      <LanguageSwitcher />
+    </div>
+  );
 };
 
 export default RootPage;
