@@ -1,0 +1,3 @@
+files:
+  - source: /app/shared/lang/en/*.json
+    translation: /app/shared/%two_letters_code%/%original_file_name%
